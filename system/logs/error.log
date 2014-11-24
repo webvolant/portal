@@ -4464,3 +4464,292 @@
 2014-11-20 21:12:19 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
 2014-11-20 21:20:49 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
 2014-11-21 1:22:18 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 12:31:14 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 12:31:53 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 12:32:58 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 21:34:39 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 21:34:39 - PHP Notice:  Undefined variable: product in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\product.tpl on line 159
+2014-11-21 21:35:08 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 21:35:08 - PHP Notice:  Undefined variable: product in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\product.tpl on line 159
+2014-11-21 21:35:36 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 21:35:52 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 21:49:31 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 21:50:43 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-21 21:51:19 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-22 18:58:39 - PHP Notice:  Undefined index: attribute_group_id in D:\server\OpenServer\domains\shop\admin\model\catalog\attribute.php on line 6
+2014-11-22 18:58:39 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\server\OpenServer\domains\shop\admin\index.php:80) in D:\server\OpenServer\domains\shop\system\library\response.php on line 12
+2014-11-22 22:49:05 - PHP Notice:  Undefined variable: entry_sort_order in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 56
+2014-11-22 22:49:05 - PHP Notice:  Undefined variable: entry_layout in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 79
+2014-11-22 22:49:05 - PHP Notice:  Undefined variable: entry_position in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 80
+2014-11-22 22:49:05 - PHP Notice:  Undefined variable: entry_sort_order in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 82
+2014-11-22 22:49:05 - PHP Notice:  Undefined variable: layouts in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 161
+2014-11-22 22:49:05 - PHP Warning:  Invalid argument supplied for foreach() in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 161
+2014-11-22 22:49:05 - PHP Notice:  Undefined variable: text_content_top in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 166
+2014-11-22 22:49:05 - PHP Notice:  Undefined variable: text_content_bottom in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 167
+2014-11-22 22:49:05 - PHP Notice:  Undefined variable: text_column_left in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 168
+2014-11-22 22:49:05 - PHP Notice:  Undefined variable: text_column_right in D:\server\OpenServer\domains\shop\admin\view\template\module\ebaydisplay.tpl on line 169
+2014-11-22 23:05:25 - PHP Notice:  Undefined variable: text_edit in D:\server\OpenServer\domains\shop\admin\view\template\setting\setting.tpl on line 29
+2014-11-22 23:17:49 - PHP Notice:  Undefined variable: text_edit in D:\server\OpenServer\domains\shop\admin\view\template\setting\setting.tpl on line 29
+2014-11-22 23:19:17 - PHP Notice:  Undefined variable: text_edit in D:\server\OpenServer\domains\shop\admin\view\template\setting\setting.tpl on line 29
+2014-11-22 23:31:39 - PHP Notice:  Undefined variable: text_edit in D:\server\OpenServer\domains\shop\admin\view\template\setting\setting.tpl on line 29
+2014-11-23 1:50:53 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-23 2:02:18 - PHP Notice:  Undefined variable: rate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\product\shipping.tpl on line 132
+2014-11-23 2:02:24 - PHP Warning:  extract() expects parameter 1 to be array, integer given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 2:07:11 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Document is empty in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 30
+2014-11-23 2:07:11 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 30
+2014-11-23 2:07:11 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 30
+2014-11-23 2:07:11 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Start tag expected, '&lt;' not found in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 30
+2014-11-23 2:07:11 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 30
+2014-11-23 2:07:11 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 30
+2014-11-23 2:07:11 - PHP Warning:  extract() expects parameter 1 to be array, boolean given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 2:10:50 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Document is empty in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:10:50 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:10:50 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:10:50 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Start tag expected, '&lt;' not found in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:10:50 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:10:50 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:10:50 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 2:11:10 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Document is empty in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:10 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:10 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:10 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Start tag expected, '&lt;' not found in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:10 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:10 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:10 - PHP Notice:  Undefined variable: data in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 61
+2014-11-23 2:11:10 - PHP Warning:  extract() expects parameter 1 to be array, null given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 2:11:23 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Document is empty in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:23 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:23 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:23 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Start tag expected, '&lt;' not found in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:23 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:23 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:11:23 - PHP Warning:  extract() expects parameter 1 to be array, integer given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 2:12:57 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Document is empty in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:12:57 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:12:57 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:12:57 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: http://open.api.ebay.com/shopping?%0D%0A%20%20%20%20%20%20%20%20callname=GetUserProfile&amp;%0D%0A%20%20%20%20%20%20%20%20responseencoding=XML&amp;%0D%0A%20%20%20%20%20%20%20%20appid=Barkalov-1539-44b7-ba1f-17da6a749a23&amp;%0D%0A%20%20%20%20%20%20%20%20siteid=0&amp;%0D%0A%20%20%20%20%20%20%20%20version=525&amp;%0D%0A%20%20%20%20%20%20%20%20UserID=discount*portal:1: parser error : Start tag expected, '&lt;' not found in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:12:57 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]:  in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:12:57 - PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: ^ in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 31
+2014-11-23 2:12:57 - PHP Warning:  extract() expects parameter 1 to be array, integer given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 2:14:11 - PHP Warning:  Division by zero in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 46
+2014-11-23 2:14:11 - PHP Warning:  extract() expects parameter 1 to be array, integer given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 2:14:29 - PHP Warning:  Division by zero in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 46
+2014-11-23 2:14:29 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 2:15:45 - PHP Warning:  Division by zero in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 46
+2014-11-23 2:15:45 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 2:17:25 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 17:45:26 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 17:45:36 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 17:51:51 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 17:52:24 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:09:17 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:10:10 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:10:28 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:12:15 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:12:32 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:12:44 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:14:01 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:14:34 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:19:47 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:20:35 - PHP Notice:  Undefined variable: myWorldImgURL in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 41
+2014-11-23 18:20:35 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:21:41 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:25:16 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:31:53 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:33:28 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:43:22 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:48:23 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:48:52 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:49:10 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:52:18 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:53:41 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:53:43 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:53:44 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:53:45 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:54:17 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:54:52 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:56:09 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:56:37 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:56:48 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:57:09 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:58:09 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 18:58:22 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:00:38 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:00:49 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:02:06 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:02:17 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:02:44 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:02:58 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:03:42 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:04:31 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:05:35 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:06:00 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:06:49 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:15:44 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 19:17:30 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:05:34 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:06:18 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:06:48 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:07:22 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:07:45 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:11:00 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:11:17 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:11:20 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:11:44 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:12:21 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:12:44 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:13:17 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:14:01 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:14:20 - PHP Notice:  Undefined variable: ebay_profile in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\common\home.tpl on line 11
+2014-11-23 20:29:49 - PHP Notice:  Undefined variable: ebay_profile in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\common\home.tpl on line 11
+2014-11-23 20:29:59 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:31:48 - PHP Notice:  Undefined variable: results in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 39
+2014-11-23 20:31:48 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:33:11 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:33:20 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:35:20 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:35:34 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:36:38 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:37:00 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:37:18 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:37:35 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:38:13 - PHP Notice:  Undefined variable: results in D:\server\OpenServer\domains\shop\catalog\controller\module\ebay_profile.php on line 39
+2014-11-23 20:38:13 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:38:13 - PHP Notice:  Undefined variable: results in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\module\ebay_profile.tpl on line 2
+2014-11-23 20:38:41 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:38:41 - PHP Notice:  Undefined variable: results in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\module\ebay_profile.tpl on line 2
+2014-11-23 20:39:36 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:39:36 - PHP Notice:  Undefined variable: ebay_profile in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\module\ebay_profile.tpl on line 2
+2014-11-23 20:39:55 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:39:55 - PHP Notice:  Undefined variable: ebay_profile in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\module\ebay_profile.tpl on line 2
+2014-11-23 20:40:08 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:41:43 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 20:42:02 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:26:18 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:27:25 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:28:45 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:29:14 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:36:18 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:36:36 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:37:07 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:46:02 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:46:40 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:47:11 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:49:00 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:49:32 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:50:11 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:51:09 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:51:33 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:52:25 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:55:38 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:57:24 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:57:33 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 21:57:37 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 22:01:53 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 22:02:10 - PHP Warning:  extract() expects parameter 1 to be array, string given in D:\server\OpenServer\domains\shop\system\engine\loader.php on line 33
+2014-11-23 22:04:17 - PHP Notice:  Trying to get property of non-object in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\module\ebay_profile.tpl on line 3
+2014-11-23 22:41:20 - PHP Notice:  Undefined variable: latest_status in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 32
+2014-11-23 22:41:40 - PHP Notice:  Undefined variable: latest_status in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 32
+2014-11-23 22:42:05 - PHP Notice:  Undefined variable: latest_status in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 32
+2014-11-23 22:49:20 - PHP Notice:  Undefined variable: latest_status in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 32
+2014-11-23 22:49:35 - PHP Notice:  Undefined variable: latest_status in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 32
+2014-11-23 22:50:50 - PHP Notice:  Undefined variable: breadcrumbs in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 10
+2014-11-23 22:50:50 - PHP Warning:  Invalid argument supplied for foreach() in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 10
+2014-11-23 22:50:50 - PHP Notice:  Undefined variable: error_warning in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 17
+2014-11-23 22:50:50 - PHP Notice:  Undefined variable: latest_status in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 32
+2014-11-23 22:51:06 - PHP Notice:  Undefined variable: breadcrumbs in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 10
+2014-11-23 22:51:06 - PHP Warning:  Invalid argument supplied for foreach() in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 10
+2014-11-23 22:51:06 - PHP Notice:  Undefined variable: error_warning in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 17
+2014-11-23 22:51:06 - PHP Notice:  Undefined variable: latest_status in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 32
+2014-11-23 22:51:10 - PHP Notice:  Undefined variable: breadcrumbs in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 10
+2014-11-23 22:51:10 - PHP Warning:  Invalid argument supplied for foreach() in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 10
+2014-11-23 22:51:10 - PHP Notice:  Undefined variable: error_warning in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 17
+2014-11-23 22:51:10 - PHP Notice:  Undefined variable: latest_status in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 32
+2014-11-23 22:58:09 - PHP Notice:  Undefined variable: latest_status in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 32
+2014-11-23 22:58:09 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 46
+2014-11-23 22:58:09 - PHP Notice:  Undefined variable: entry_image in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 47
+2014-11-23 22:58:09 - PHP Notice:  Undefined variable: button_module_add in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 57
+2014-11-23 22:58:09 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 71
+2014-11-23 22:58:09 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 72
+2014-11-23 22:58:09 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 72
+2014-11-23 22:58:09 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 73
+2014-11-23 23:00:02 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 64
+2014-11-23 23:00:02 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 65
+2014-11-23 23:00:02 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 65
+2014-11-23 23:00:02 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 66
+2014-11-23 23:03:29 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 64
+2014-11-23 23:03:29 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 65
+2014-11-23 23:03:29 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 65
+2014-11-23 23:03:29 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 66
+2014-11-23 23:03:39 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 64
+2014-11-23 23:03:39 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 65
+2014-11-23 23:03:39 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 65
+2014-11-23 23:03:39 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\ebay_profile.tpl on line 66
+2014-11-23 23:18:34 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 64
+2014-11-23 23:18:34 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:18:34 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:18:34 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 66
+2014-11-23 23:19:27 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 64
+2014-11-23 23:19:27 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:19:27 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:19:27 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 66
+2014-11-23 23:19:41 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 64
+2014-11-23 23:19:41 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:19:41 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:19:41 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 66
+2014-11-23 23:27:32 - PHP Notice:  Undefined index: limit in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 26
+2014-11-23 23:27:32 - PHP Notice:  Undefined index: width in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:32 - PHP Notice:  Undefined index: height in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:33 - PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in D:\server\OpenServer\domains\shop\system\library\image.php on line 86
+2014-11-23 23:27:33 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 94
+2014-11-23 23:27:33 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 97
+2014-11-23 23:27:33 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 99
+2014-11-23 23:27:33 - PHP Notice:  Undefined index: width in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:33 - PHP Notice:  Undefined index: height in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:33 - PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in D:\server\OpenServer\domains\shop\system\library\image.php on line 86
+2014-11-23 23:27:33 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 94
+2014-11-23 23:27:33 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 97
+2014-11-23 23:27:33 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 99
+2014-11-23 23:27:33 - PHP Notice:  Undefined index: width in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:33 - PHP Notice:  Undefined index: height in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:33 - PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in D:\server\OpenServer\domains\shop\system\library\image.php on line 86
+2014-11-23 23:27:33 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 94
+2014-11-23 23:27:33 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 97
+2014-11-23 23:27:33 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 99
+2014-11-23 23:27:33 - PHP Notice:  Undefined index: width in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:33 - PHP Notice:  Undefined index: height in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:34 - PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in D:\server\OpenServer\domains\shop\system\library\image.php on line 86
+2014-11-23 23:27:34 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 94
+2014-11-23 23:27:34 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 97
+2014-11-23 23:27:34 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 99
+2014-11-23 23:27:34 - PHP Notice:  Undefined index: width in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:34 - PHP Notice:  Undefined index: height in D:\server\OpenServer\domains\shop\catalog\controller\module\latest.php on line 34
+2014-11-23 23:27:34 - PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in D:\server\OpenServer\domains\shop\system\library\image.php on line 86
+2014-11-23 23:27:34 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 94
+2014-11-23 23:27:34 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 97
+2014-11-23 23:27:34 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\server\OpenServer\domains\shop\system\library\image.php on line 99
+2014-11-23 23:28:00 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 64
+2014-11-23 23:28:00 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:28:00 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:28:00 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 66
+2014-11-23 23:28:13 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 64
+2014-11-23 23:28:13 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:28:13 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:28:13 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 66
+2014-11-23 23:31:18 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 64
+2014-11-23 23:31:18 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:31:18 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:31:18 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 66
+2014-11-23 23:35:03 - PHP Notice:  Undefined variable: ebay_profile in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\common\home.tpl on line 11
+2014-11-23 23:38:34 - PHP Notice:  Undefined variable: ebay_profile in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\common\home.tpl on line 11
+2014-11-23 23:38:46 - PHP Notice:  Undefined variable: entry_limit in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 64
+2014-11-23 23:38:46 - PHP Notice:  Undefined variable: entry_width in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:38:46 - PHP Notice:  Undefined variable: entry_height in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 65
+2014-11-23 23:38:46 - PHP Notice:  Undefined variable: button_remove in D:\server\OpenServer\domains\shop\admin\view\template\module\profile.tpl on line 66
+2014-11-23 23:39:32 - PHP Notice:  Undefined variable: ebay_profile in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\common\home.tpl on line 11
+2014-11-24 0:34:52 - PHP Notice:  Undefined variable: heading_title in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\module\bay.tpl on line 1
+2014-11-24 0:53:48 - PHP Notice:  Undefined index: text_positive in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\module\bay.tpl on line 9
+2014-11-24 0:55:00 - PHP Notice:  Use of undefined constant text_positive - assumed 'text_positive' in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\module\bay.tpl on line 9
+2014-11-24 1:25:09 - PHP Notice:  Undefined variable: text_regdate in D:\server\OpenServer\domains\shop\catalog\view\theme\default\template\module\bay.tpl on line 11
+2014-11-24 15:41:57 - PHP Notice:  Undefined index: height in D:\server\OpenServer\domains\shop\admin\controller\module\latest.php on line 111
+2014-11-24 15:41:57 - PHP Notice:  Undefined index: height in D:\server\OpenServer\domains\shop\admin\controller\module\latest.php on line 93

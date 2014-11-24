@@ -156,7 +156,7 @@
 
                   <?php if (!$special) { ?>
                   <?php if ($tax == $price || $tax =="0" ) { ?>
-                  <h2><?php echo $product['price']; ?></h2>
+                  <h2><?php echo $price; ?></h2>
               <div class="delivery"> </div>
               <?php } else { ?>
               <?php echo $price; ?>

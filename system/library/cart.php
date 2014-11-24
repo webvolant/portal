@@ -417,7 +417,8 @@ class Cart {
 	}
 
 	public function hasShipping() {
-		$shipping = false;
+        return false;
+        $shipping = false;
 
 		foreach ($this->getProducts() as $product) {
 			if ($product['shipping']) {

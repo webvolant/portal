@@ -41,7 +41,7 @@
           <span class="price-new">
               <?php echo $product['tax']; ?></span> <span class="price-old"><?php echo substr($product['price'],0, -1)-(substr($product['special'],0, -1) - substr($product['tax'],0, -1)); ?></span>
           <?php if ($product['tax'] == $product['special'] || $product['tax'] =="0" ) { ?>
-          <?php echo $product['special']; ?>
+          <?php //echo $product['special']; ?>
           <div class="delivery"> </div>
           <?php } else { ?>
           <div class="delivery_pay">  </div>

@@ -19,6 +19,8 @@ class ControllerCommonHome extends Controller {
         $data['content_pay'] = $this->load->controller('common/content_pay');
         $data['currency'] = $this->load->controller('common/currency');
 
+        //$data['profile'] = $this->load->controller('module/profile');
+
 		if (file_exists(DIR_TEMPLATE . $this->config->get('config_template') . '/template/common/home.tpl')) {
 			$this->response->setOutput($this->load->view($this->config->get('config_template') . '/template/common/home.tpl', $data));
 		} else {
