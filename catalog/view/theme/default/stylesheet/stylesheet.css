@@ -4,6 +4,15 @@ body {
 	color: #666;
 	font-size: 12px;
 	line-height: 20px;
+
+
+    background-image: linear-gradient(to left, rgba(151, 151, 151, 0.09), rgba(255, 255, 255, 0.10));
+
+}
+
+.cart-icon{
+    float:left;
+    background: green;
 }
 
 
@@ -180,6 +189,8 @@ div.required .control-label:before {
 }
 
 
+
+
 /* menu */
 #menu {
     background-color: #87bd5b;
@@ -190,9 +201,11 @@ div.required .control-label:before {
     font-family: 'Arial' sans-serif;
     font-size: 14px;
 
-    -webkit-box-shadow: 0 5px 10px -6px rgba(0, 0, 0, 0.7);
+    /*-webkit-box-shadow: 0 5px 10px -6px rgba(0, 0, 0, 0.7);
     -moz-box-shadow: 0 5px 10px -6px rgba(0, 0, 0, 0.7);
-    box-shadow: 0 5px 10px -6px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 5px 10px -6px rgba(0, 0, 0, 0.7);*/
+    border-radius: 5px 5px 0px 0px;
+    position: relative;
 }
 #menu .nav > li > a {
 	color: #fff;
@@ -200,9 +213,16 @@ div.required .control-label:before {
 	padding: 10px 15px 10px 15px;
 	min-height: 15px;
 	background-color: transparent;
+    border-right: 1px solid rgba(255, 255, 255, 0.31);
 }
+
+#menu .nav > li:last-child > a {
+    border: none;
+}
+
 #menu .nav > li > a:hover, #menu .nav > li.open > a {
 	background-color: rgba(0, 0, 0, 0.1);
+
 }
 #menu .dropdown-menu {
 	padding-bottom: 0;
@@ -309,10 +329,19 @@ div.required .control-label:before {
 /* pay */
 
 #content_pay{
-    border-top:2px solid #5fae61;
-    border-bottom:2px solid #bd4f4f;
+    /*border-top:2px solid #5fae61;
+    border-bottom:2px solid #bd4f4f;*/
+    border:1px solid #ddd;
     padding-top:5px;
-    border-radius: 1px 1px 1px 1px;
+    border-radius: 5px 5px 1px 1px;
+    position: relative;
+
+    background:#fff;
+    border-radius:5px;
+    -webkit-box-shadow:0 1px 1px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow:0 1px 1px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    box-shadow:0 1px 1px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    -moz-border-radius:1px;
 
 
 }
@@ -325,6 +354,14 @@ footer {
 	background-color: #303030;
 	border-top: 1px solid #ddd;
 	color: #e2e2e2;
+    border-radius: 5px;
+    background-color: #666666;
+    background-image: linear-gradient(to bottom, #666666, #4E5154);
+    background-repeat: repeat-x;
+    border-color: #666666 #4e5154 #4E5154;
+
+
+
 }
 footer hr {
 	border-top: none;
@@ -900,4 +937,35 @@ span.pay_block p{
     padding-left: 30px;
     padding-top:15px;
     padding-bottom:15px;
+}
+
+.cart-icon{
+    float:left;
+    color: #ffffff;
+    border:1px solid #8abe5a;
+
+    background-color: #5bb75b;
+    background-image: linear-gradient(to bottom, #8abe5a, #5faf61);
+    background-repeat: repeat-x;
+    font-size: 18px;
+    padding: 10px;
+    position: relative;
+    z-index: 8;
+    margin: -1px;
+    border-radius: 3px 0px 0px 3px;
+    border-right:1px solid rgba(255, 255, 255, 0.56);
+}
+
+.cart-btn{
+    padding: 0px;
+}
+
+span#cart-total{
+    line-height: 36px;
+}
+
+
+#menu ul.nav-icon > li > a{
+    padding: 5px 10px 2px 10px;
+    color: white;
 }
