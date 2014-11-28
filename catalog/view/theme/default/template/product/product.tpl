@@ -174,15 +174,17 @@
           <span class="price-new">
               <h2><?php echo $tax; ?></span> <span class="price-old"><span style="text-decoration: line-through;"><?php echo substr($price,0, -1)-(substr($special,0, -1) - substr($tax,0, -1)); ?></span></span></h2>
               <?php if ($tax == $special || $tax =="0" ) { ?>
-              <?php echo $special; ?>
+              <?php //echo $special; ?>
               <div class="delivery"> </div>
+              <div class="werbung"> </div>
               <?php } else { ?>
               <div class="delivery_pay">  </div>
+              <div class="werbung"> </div>
               <?php $cur = strripos($special, '€');
                             if ( $cur == true ){ ?>
-              :<span class="price-delivery"><?php echo substr($special,0, -1) - substr($tax,0, -1); echo '€'; ?></span>
+              :<span class="price-delivery"><?php //echo substr($special,0, -1) - substr($tax,0, -1); echo '€'; ?></span>
               <?php } else { ?>
-              :<span class="price-delivery"><?php echo substr($special,0, -1) - substr($tax,0, -1); echo substr($price, -1); ?></span>
+              :<span class="price-delivery"><?php //echo substr($special,0, -1) - substr($tax,0, -1); echo substr($price, -1); ?></span>
               <?php } ?>
               <?php } ?>
               <?php } ?>
@@ -193,7 +195,7 @@
               </p>
               <?php } ?>
 
-
+            </br>
 
             <?php if (!$special) { ?>
             <li>

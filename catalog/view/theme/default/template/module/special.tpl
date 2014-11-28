@@ -27,10 +27,10 @@
 
               <?php if (!$product['special']) { ?>
               <?php if ($product['tax'] == $product['price'] || $product['tax'] =="0" ) { ?>
-              <?php echo $product['price']; ?>
+              <?php echo $product['tax']; ?>
           <div class="delivery"> </div>
           <?php } else { ?>
-          <?php echo $product['price']; ?>
+          <?php echo $product['tax']; ?>
           <div class="delivery_pay">  </div>
           <?php $cur = strripos($product['price'], '€');
                       if ( $cur == true ){ ?>
@@ -43,12 +43,14 @@
           <?php } else { ?>
 
           <span class="price-new">
-             <?php echo $product['tax']; ?></span> <span class="price-old"><?php echo substr($product['price'],0, -1)-(substr($product['special'],0, -1) - substr($product['tax'],0, -1)); ?></span>
+              <?php echo $product['tax']; ?></span> <span class="price-old"><?php echo substr($product['price'],0, -1)-(substr($product['special'],0, -1) - substr($product['tax'],0, -1)); ?></span>
           <?php if ($product['tax'] == $product['special'] || $product['tax'] =="0" ) { ?>
           <?php //echo $product['special']; ?>
           <div class="delivery"> </div>
+          <div class="werbung"> </div>
           <?php } else { ?>
           <div class="delivery_pay">  </div>
+          <div class="werbung"> </div>
           <?php $cur = strripos($product['special'], '€');
                             if ( $cur == true ){ ?>
           :<span class="price-delivery"><?php echo substr($product['special'],0, -1) - substr($product['tax'],0, -1); echo '€'; ?></span>

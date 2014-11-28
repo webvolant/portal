@@ -18,15 +18,18 @@
           <?php } ?>
         </div>
         <?php } ?>
+
+
+
           <?php if ($product['price']) { ?>
           <p class="price">
 
               <?php if (!$product['special']) { ?>
               <?php if ($product['tax'] == $product['price'] || $product['tax'] =="0" ) { ?>
-              <?php echo $product['price']; ?>
+              <?php echo $product['tax']; ?>
           <div class="delivery"> </div>
           <?php } else { ?>
-          <?php echo $product['price']; ?>
+          <?php echo $product['tax']; ?>
           <div class="delivery_pay">  </div>
           <?php $cur = strripos($product['price'], '€');
                       if ( $cur == true ){ ?>
@@ -43,8 +46,10 @@
           <?php if ($product['tax'] == $product['special'] || $product['tax'] =="0" ) { ?>
           <?php //echo $product['special']; ?>
           <div class="delivery"> </div>
+          <div class="werbung"> </div>
           <?php } else { ?>
           <div class="delivery_pay">  </div>
+          <div class="werbung"> </div>
           <?php $cur = strripos($product['special'], '€');
                             if ( $cur == true ){ ?>
           :<span class="price-delivery"><?php echo substr($product['special'],0, -1) - substr($product['tax'],0, -1); echo '€'; ?></span>
@@ -59,6 +64,8 @@
           <?php } ?>
           </p>
           <?php } ?>
+
+
       </div>
       <div class="button-group">
         <button type="button" onclick="cart.add('<?php echo $product['product_id']; ?>');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $button_cart; ?></span></button>

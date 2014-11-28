@@ -836,7 +836,7 @@ div.module-title{
 }
 
 .product-thumb .caption{
-    min-height: 150px;
+    min-height: 160px;
 }
 
 .product_hit .product-thumb .caption{
@@ -896,11 +896,20 @@ div.module-title{
     transform:rotate(3deg);
 }
 
-
+.werbung{
+    background: url("../image/werb.png") no-repeat top left;
+    width: 26px;
+    height: 26px;
+    float:left;
+    margin-left: 5px;
+    position:relative;
+}
 .delivery{
     background: url("../image/free.png") no-repeat top left;
     width: 26px;
     height: 26px;
+    float:left;
+    position:relative;
 }
 
 .delivery_pay{
