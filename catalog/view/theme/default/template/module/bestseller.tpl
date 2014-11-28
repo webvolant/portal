@@ -47,11 +47,11 @@
               <?php echo $product['tax']; ?></span> <span class="price-old"><?php echo substr($product['price'],0, -1)-(substr($product['special'],0, -1) - substr($product['tax'],0, -1)); ?></span>
           <?php if ($product['tax'] == $product['special'] || $product['tax'] =="0" ) { ?>
           <?php //echo $product['special']; ?>
+          <div class="werbung"> </div>
           <div class="delivery"> </div>
-          <div class="werbung"> </div>
           <?php } else { ?>
-          <div class="delivery_pay">  </div>
           <div class="werbung"> </div>
+          <div class="delivery_pay"> </div>
           <?php $cur = strripos($product['special'], '€');
                             if ( $cur == true ){ ?>
           :<span class="price-delivery"><?php echo substr($product['special'],0, -1) - substr($product['tax'],0, -1); echo '€'; ?></span>
